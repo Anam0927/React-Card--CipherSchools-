@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-Card--CipherSchools-/static/css/main.f2a4f009.chunk.css",
-    "main.js": "/React-Card--CipherSchools-/static/js/main.2527e535.chunk.js",
-    "main.js.map": "/React-Card--CipherSchools-/static/js/main.2527e535.chunk.js.map",
+    "main.js": "/React-Card--CipherSchools-/static/js/main.c1510c57.chunk.js",
+    "main.js.map": "/React-Card--CipherSchools-/static/js/main.c1510c57.chunk.js.map",
     "runtime-main.js": "/React-Card--CipherSchools-/static/js/runtime-main.e980d108.js",
     "runtime-main.js.map": "/React-Card--CipherSchools-/static/js/runtime-main.e980d108.js.map",
     "static/js/2.ed2fafe7.chunk.js": "/React-Card--CipherSchools-/static/js/2.ed2fafe7.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.e980d108.js",
     "static/js/2.ed2fafe7.chunk.js",
     "static/css/main.f2a4f009.chunk.css",
-    "static/js/main.2527e535.chunk.js"
+    "static/js/main.c1510c57.chunk.js"
   ]
 }
