@@ -20,7 +20,7 @@ export class Card extends Component {
         this.subtractor();
         this.bgChanger();
         break;
-      case 'o':
+      case 'reset':
         this.resetter();
         this.bgChanger();
         break;
