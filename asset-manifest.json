@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Card--CipherSchools-/static/css/main.f2a4f009.chunk.css",
+    "main.js": "/React-Card--CipherSchools-/static/js/main.2527e535.chunk.js",
+    "main.js.map": "/React-Card--CipherSchools-/static/js/main.2527e535.chunk.js.map",
+    "runtime-main.js": "/React-Card--CipherSchools-/static/js/runtime-main.e980d108.js",
+    "runtime-main.js.map": "/React-Card--CipherSchools-/static/js/runtime-main.e980d108.js.map",
+    "static/js/2.ed2fafe7.chunk.js": "/React-Card--CipherSchools-/static/js/2.ed2fafe7.chunk.js",
+    "static/js/2.ed2fafe7.chunk.js.map": "/React-Card--CipherSchools-/static/js/2.ed2fafe7.chunk.js.map",
+    "index.html": "/React-Card--CipherSchools-/index.html",
+    "static/css/main.f2a4f009.chunk.css.map": "/React-Card--CipherSchools-/static/css/main.f2a4f009.chunk.css.map",
+    "static/js/2.ed2fafe7.chunk.js.LICENSE.txt": "/React-Card--CipherSchools-/static/js/2.ed2fafe7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e980d108.js",
+    "static/js/2.ed2fafe7.chunk.js",
+    "static/css/main.f2a4f009.chunk.css",
+    "static/js/main.2527e535.chunk.js"
+  ]
+}
